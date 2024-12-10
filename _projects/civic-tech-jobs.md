@@ -20,6 +20,13 @@ leadership:
       slack: https://hackforla.slack.com/team/U02E7ATACAV
       github: https://github.com/kchotani
     picture: https://avatars.githubusercontent.com/kchotani
+  - name: Nooria Ali
+    github-handle: nooriaali9
+    role: Product Manager
+    links:
+      slack: https://hackforla.slack.com/team/U078JUY57GW
+      github: https://github.com/nooriaali9
+    picture: https://avatars.githubusercontent.com/nooriaali9
   - name: Jimmy Juarez
     github-handle: JimmyJuarez10
     role: Developer Lead
@@ -83,6 +90,20 @@ leadership:
       slack: https://hackforla.slack.com/team/U05JP90EHMK
       github: https://github.com/bennyv8
     picture: https://avatars.githubusercontent.com/bennyv8
+  - name: Kevin Yu
+    github-handle: kevin31yu
+    role: Developer
+    links:
+      slack: https://hackforla.slack.com/team/U061GQQ56Q4
+      github: https://github.com/kevin31yu
+    picture: https://avatars.githubusercontent.com/kevin31yu
+  - name: Ida Valenzuela
+    github-handle: irais-valenzuela
+    role: Developer
+    links:
+      slack: https://hackforla.slack.com/team/U062NBBNFA7
+      github: https://github.com/irais-valenzuela
+    picture: https://avatars.githubusercontent.com/irais-valenzuela
 links: 
   - name: GitHub
     url: https://github.com/hackforla/civictechjobs
@@ -92,14 +113,13 @@ links:
     url: ../assets/pdfs/Civic-Tech-Jobs-One-Sheet.pdf
 looking: 
 technologies: 
-  - Django
-  - Django REST Framework
   - React
-  - Webpack
-  - Babel
-  - PostgreSQL
+  - Express
+  - Node.JS
   - Docker
-  - GitHub Actions
+  - PostgreSQL
+  - Django
+  - Figma
 tools: 
 location: 
   - Remote
