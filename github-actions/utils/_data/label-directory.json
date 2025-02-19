@@ -629,7 +629,7 @@
   ],
   "roleMissing": [
     "role missing",
-    9999999999
+    7781839026
   ],
   "roleOrgRep": [
     "role: Org Rep",
@@ -741,7 +741,7 @@
   ],
   "statusInactive2": [
     "2 weeks inactive",
-    3278535433
+    9999999999
   ],
   "statusMissing": [
     "status: missing",
@@ -787,14 +787,6 @@
     "wontfix",
     905516652
   ],
-  "NEW-labelForTestingOnly": [
-    "Label for TESTING only!!!",
-    9999999999
-  ],
-  "NEW-labelForTestingPart2": [
-    "Label for TESTING part 2",
-    9999999999
-  ],
   "NEW-featureRoadmap": [
     "feature: Roadmap",
     7472857782
@@ -819,16 +811,24 @@
     "milestone: missing",
     7695414022
   ],
-  "NEW-frontEnd": [
-    "front end",
-    9999999999
+  "NEW-featureFaq": [
+    "feature: FAQ",
+    7970290985
   ],
-  "NEW-roleFrontEndBackEnd": [
-    "role: front-end/back-end",
-    9999999999
+  "NEW-skillsTemplateStatusNeedNextSteps": [
+    "Skills Template status: Need Next Steps",
+    7582275087
   ],
-  "NEW-roleMissing": [
-    "role missing",
-    7781839026
+  "NEW-2WeeksInactive": [
+    "2 weeks inactive",
+    8048259525
+  ],
+  "NEW-roleDataScientist": [
+    "role: data scientist",
+    8056944058
+  ],
+  "NEW-statusUnassignedByBot": [
+    "Status: Unassigned by Bot",
+    8096814358
   ]
 }
